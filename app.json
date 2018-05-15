@@ -1,0 +1,6 @@
+{
+    "name": "Node.js Teens Exploring Technology Demo Blog",
+    "description": "A simple blog app built with the MEAN stack",
+    "respoitory": "https://github.com/HectorVegaD/blog-txt-client.git",
+    "keywords": ["node", "express", "static"]
+}
